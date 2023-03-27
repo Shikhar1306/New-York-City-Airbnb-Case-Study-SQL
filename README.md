@@ -5,7 +5,7 @@
 ![Logo](https://cdn.iconscout.com/icon/free/png-256/airbnb-3691238-3073758.png)
 
 
-In this project, I have picked the New York City Airbnb dataset from kaggle. The dataset contains 48k+ Airbnd listings, hosts and other metrics using which I have solved some questions to get insights on the data. 
+In this project, I have picked the New York City Airbnb dataset from kaggle. The dataset contains 48k+ Airbnb listings, hosts and other metrics using which I have solved some questions to get insights on the data. 
 
 For more information about the dataset and to download the dateset, please click [here](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data).
 
